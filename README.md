@@ -1,6 +1,6 @@
 # Hi, I'm Marc
 
-### BSIT Student | Python • Django •  | Web & System Development
+### BSIT Student | Python • Django | Web & System Development
 
 I'm a Bachelor of Science in Information Technology (BSIT) student interested in building practical web and software applications.
 
